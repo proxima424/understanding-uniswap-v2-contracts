@@ -1,9 +1,12 @@
-## Understanding Uniswap V2 Contracts
+# Understanding Uniswap V2 Contracts
+
+### About Uniswap
 
 Uniswap is one of the pioneers of Decentralized finance offering an Automated-Market-Maker through its pools.
 Automated Market Maker (AMM) meaning we do not need an external third party to mediate buying and selling.
-It does the required tasks with the help of a Mathematical function x*y = k  which dictates price of an asset relative
+It does the required tasks of a market maker with the help of a Mathematical function x*y = k  which dictates price of an asset relative
 to another asset.
+
 Anyone one can go and form a pool of two assets containing X amount of token A and Y amount of token B.
 Price is calculated relative to the other asset, meaning the denominated is the other asset. And this is done simply by dividing
 amounts of both the assets. That's it.
