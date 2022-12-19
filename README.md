@@ -14,7 +14,6 @@ x*y = K  is a form of CFMM ( Constant function Market Maker ). K being the const
 This offers a total independence from the actual market prices since we are not feeding any data from the market. This offers an opportunity
 of arbitrage and frequent arbitrage keeps the price in check.
 
-
 Uniswap V2 is a binary contract system. The whole codebase is divided into Core and Periphery. 
 These are the core contracts:
 
@@ -24,3 +23,7 @@ These are the core contracts:
 
 
 *UniswapV2ERC20.sol*
+
+# Todo:
+
+1. describe the three new features of univ2 over univ1
